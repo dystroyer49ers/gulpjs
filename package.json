@@ -1,0 +1,17 @@
+{
+  "name": "gulpjs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zachary Koyama",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "eslint": "^5.15.0",
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  }
+}
